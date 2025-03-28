@@ -58,7 +58,8 @@ This project employs **descriptive analysis** to determine which aircraft models
 
 ## Results
 **1. Accident Distribution by Make_Model**
-![alt text](image.png)
+
+![Aircraft Accident Distribution](Images/image.png)
 
 The analysis of accident distribution across different aircraft models revealed significant variation in accident frequency. The left chart illustrates that a small number of aircraft models account for the majority of recorded accidents, following a classic long-tail distribution. Most models had very few accidents, while a few models had disproportionately high numbers.
 
@@ -74,7 +75,8 @@ On the right chart, a focused view of the top accident-prone models shows that t
 While the dataset does not directly present accident rates (accidents relative to the total number of aircraft in operation for each model), the raw count suggests that many models with fewer recorded accidents could be potential candidates for safer investment. However, a proper accident rate would require additional data on exposure (e.g., total flights, flight hours, or fleet size per model) for a more definitive conclusion.
 
 **2. Aircraft Reliability Over Time**
-![alt text](image-1.png)
+
+![Aircraft Reliability Over Time](Images/image-1.png)
 
 The analysis of accident trends over time reveals notable patterns regarding the reliability of various aircraft models.
 
@@ -100,7 +102,11 @@ A group of less common models exhibit isolated spikes, which may result from lim
 
 **3. Accident Severity by Aircraft Model**
 The analysis of accident severity across different aircraft models highlights key patterns in injury outcomes.
-![alt text](image-2.png)
+
+![Accident Severity by Aircraft Model](Images/image-2.png)
+
+*Figure: Distribution of accident severity across different aircraft models*
+
 From the bar charts, it is evident that:
 
 Certain models have a high frequency of uninjured cases, as shown by the dominant green bars, suggesting they provide better safety outcomes in accidents.
