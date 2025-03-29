@@ -123,3 +123,9 @@ Models with isolated spikes in accident severity could be due to rare but severe
 *Stable or Low-Risk Models:Models with predominantly minor or uninjured cases indicate better survivability and potentially safer designs or operational contexts*
 
 *Data Limitations & Further Analysis:A complete assessment should incorporate aircraft utilization data (flight hours, fleet size) to normalize accident severity findings.*
+
+# For more information
+See the full analysis [View Jupyter Notebook](https://github.com/vanzerrriii/Aviation_Risk_Analysis/blob/main/Aviation_Risk_Analysis.ipynb)  or review the [Presentation](https://github.com/vanzerrriii/Aviation_Risk_Analysis/blob/main/Presentation.pdf)
+
+# Dashboard
+View the interactive for detailed insights
