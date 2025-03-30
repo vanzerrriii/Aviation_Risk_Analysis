@@ -128,9 +128,10 @@ Models with isolated spikes in accident severity could be due to rare but severe
 See the full analysis [View Jupyter Notebook](https://github.com/vanzerrriii/Aviation_Risk_Analysis/blob/main/Aviation_Risk_Analysis.ipynb)  or review the [Presentation](https://github.com/vanzerrriii/Aviation_Risk_Analysis/blob/main/Presentation.pdf)
 
 # Dashboard
-View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/vanessa.wambui/viz/Aviation_Risk_Analysis/Aviation_Risk_Analysis?publish=yes)for detailed insights
+View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/vanessa.wambui/viz/Aviation_Risk_Analysis/Aviation_Risk_Analysis?publish=yes) for detailed insights
 
 # Contact Information
-For more details and information
-Email: vanessagathuri@gmail.com 
-Phone no: +254 702 386 548 
+For more details and information:
+
+- Email: vanessagathuri@gmail.com 
+- Phone no: +254 702 386 548 
